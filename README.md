@@ -1,11 +1,9 @@
 # SSDA
-
 [Code for paper "Constructing Domain Adaptive Semantic Segmentation with Statistical-Structural Priors".](https://github.com/PebbleH/SSDA)
 
 
 
 #### Software:
-
 Python(3.6) and Pytorch(1.3.1) is necessary before running the scripts. 
 
 
